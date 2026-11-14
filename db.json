@@ -4,10 +4,10 @@
   "maintenance_message": "The SDK service is temporarily unavailable for maintenance. Please try again later.",
   "licenses": [
     {
-      "id": "demo-com-sameer-arora",
+      "id": "demo-com-container",
       "package_name": "com.container",
-      "license_key": "DEMO-BLACKBOX-2026-PUBLIC-ONLY",
-      "expires_at": "2026-12-13T23:59:59+05:30",
+      "license_key": "CONTAINER-PUBLIC-ONLY",
+      "expires_at": "2027-12-28T23:59:59+05:30",
       "blocked": false,
       "enabled": true
     }
