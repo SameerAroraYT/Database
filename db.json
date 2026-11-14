@@ -7,7 +7,7 @@
       "id": "demo-com-sameer-arora",
       "package_name": "com.container",
       "license_key": "DEMO-BLACKBOX-2026-PUBLIC-ONLY",
-      "expires_at_utc": "2026-12-13T23:59:59Z",
+      "expires_at": "2026-12-13T23:59:59+05:30",
       "blocked": false,
       "enabled": true
     }
