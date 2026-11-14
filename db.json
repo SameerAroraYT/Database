@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "The SDK service is temporarily unavailable for maintenance. Please try again later.",
   "licenses": [
     {
