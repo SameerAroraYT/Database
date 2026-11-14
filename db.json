@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "maintenance": false,
+  "maintenance_message": "The SDK service is temporarily unavailable for maintenance. Please try again later.",
+  "licenses": [
+    {
+      "id": "demo-com-sameer-arora",
+      "package_name": "com.container",
+      "license_key": "DEMO-BLACKBOX-2026-PUBLIC-ONLY",
+      "expires_at_utc": "2026-12-13T23:59:59Z",
+      "blocked": false,
+      "enabled": true
+    }
+  ]
+}
