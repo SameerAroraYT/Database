@@ -8,7 +8,7 @@
       "package_name": "com.container",
       "license_key": "CONTAINER-PUBLIC-ONLY",
       "expires_at": "2027-12-28T23:59:59+05:30",
-      "blocked": false,
+      "blocked": true,
       "enabled": true
     }
   ]
