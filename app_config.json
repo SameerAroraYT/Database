@@ -1,0 +1,25 @@
+{
+  "config_version": 1,
+  "header_title": "Game Loader",
+  "telegram_button_text": "GO T0 Telegram.org",
+  "telegram_url": "https://t.me/PointerLost",
+  "refresh_button_text": "REFRESH VERSION INFO",
+  "promo_banner_text": "Try our new Bgmi 4.7 cheat! Absolutely free for everyone, no authentication required!",
+  "footer_version_prefix": "Game Loader V",
+  "github_config_url": "https://raw.githubusercontent.com/SameerAroraYT/Database/master/app_config.json",
+  "items": [
+    {
+      "id": "bgmi_47_64",
+      "enabled": true,
+      "target_package": "com.pubg.imobile",
+      "status_text": "Safe",
+      "status_color": "#00FF00",
+      "launch_button_text_installed": "LAUNCH BGMI 4.7\n[64-BIT] (1.0.0)",
+      "launch_button_text_uninstalled": "LAUNCH BGMI 4.7\n[64-BIT] (N/A)",
+      "download_button_text": "DOWNLOAD BGMI 4.7 \n[64-BIT] (1.0.0)",
+      "download_button_text_configured": "CONFIGURED BGMI 4.7 \n[64-BIT] (1.0.0)",
+      "download_apk_url": "https://raw.githubusercontent.com/SameerAroraYT/Database/master/floating_overlay.apk",
+      "enable_floating_apk_download": false
+    }
+  ]
+}
